@@ -1,0 +1,19 @@
+{
+  "name": "github-webhooks",
+  "version": "0.1.0",
+  "description": "GitHub webhook tools — register PR webhooks via Wire.",
+  "author": {
+    "name": "Tim Garthwaite",
+    "url": "https://github.com/mividtim"
+  },
+  "repository": "https://github.com/agiterra/github-codex",
+  "license": "MIT",
+  "keywords": ["github", "webhooks", "pr", "wire", "mcp"],
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "GitHub Webhooks",
+    "shortDescription": "GitHub webhook tools — register PR webhooks via Wire",
+    "developerName": "Agiterra",
+    "category": "Developer Tools"
+  }
+}

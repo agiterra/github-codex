@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "github-webhooks": {
+      "command": "bun",
+      "args": ["run", "--cwd", "${CODEX_PLUGIN_ROOT}", "--shell=bun", "--silent", "start"]
+    }
+  }
+}
