@@ -16,7 +16,8 @@ codex plugin install agiterra/github-codex
 |---|---|---|
 | `GITHUB_TOKEN` | required | GitHub personal access token |
 | `WIRE_URL` | `http://localhost:9800` | Wire broker URL |
-| `WIRE_AGENT_ID` | required | Agent identifier (for webhook routing) |
+| `AGENT_ID` | required | Agent identifier (for webhook routing) |
+| `AGENT_PRIVATE_KEY` | required | Ed25519 private key for Wire auth |
 
 ## What it does
 
